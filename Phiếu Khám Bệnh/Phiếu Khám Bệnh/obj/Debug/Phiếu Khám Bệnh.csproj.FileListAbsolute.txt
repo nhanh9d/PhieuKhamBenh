@@ -1,0 +1,199 @@
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.pdb
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmMain.resources
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.pdb
+c:\users\dell\documents\visual studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmNote.resources
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.config
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.pdb
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.pdb
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csprojResolveAssemblyReference.cache
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmMain.resources
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmNote.resources
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.Properties.Resources.resources
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.GenerateResource.Cache
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch.resources
+C:\Users\HD- ps\Documents\Visual Studio 2012\Projects\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmAddSampleNote.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.config
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.manifest
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.application
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.pdb
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\FlashControlV71.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\stdole.dll
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.pdb
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.pdb
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch2.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmAddSampleNote.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmMain.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmNote.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmPrint.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.Properties.Resources.resources
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.TrustInfo.xml
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe.manifest
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.application
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CopyComplete
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe
+C:\Users\MSI\source\repos\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.pdb
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.config
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.manifest
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.application
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.pdb
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Shared.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\FlashControlV71.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\ShockwaveFlashObjects.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\stdole.dll
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.pdb
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.pdb
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csprojAssemblyReference.cache
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch2.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmAddSampleNote.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmMain.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmNote.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmPrint.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.Properties.Resources.resources
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.GenerateResource.cache
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CoreCompileInputs.cache
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.TrustInfo.xml
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe.manifest
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.application
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CopyComplete
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe
+D:\Lam\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.pdb
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.config
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.manifest
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.application
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.pdb
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Shared.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\FlashControlV71.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\ShockwaveFlashObjects.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\stdole.dll
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.pdb
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.pdb
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csprojAssemblyReference.cache
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch2.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmAddSampleNote.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmMain.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmNote.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmPrint.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.Properties.Resources.resources
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.GenerateResource.cache
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CoreCompileInputs.cache
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.TrustInfo.xml
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe.manifest
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.application
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CopyComplete
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe
+D:\code\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.pdb
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.config
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe.manifest
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.application
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.exe
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Phiếu Khám Bệnh.pdb
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Shared.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\FlashControlV71.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\ShockwaveFlashObjects.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\stdole.dll
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.Business.pdb
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug\SieuAm.DataAccess.pdb
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csprojAssemblyReference.cache
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch2.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmAddSampleNote.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmMain.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmNote.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmPrint.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.frmSearch.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu_Khám_Bệnh.Properties.Resources.resources
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.GenerateResource.cache
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CoreCompileInputs.cache
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.TrustInfo.xml
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe.manifest
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.application
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.csproj.CopyComplete
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.exe
+D:\Phiếu Khám Bệnh\Phiếu Khám Bệnh\obj\Debug\Phiếu Khám Bệnh.pdb
