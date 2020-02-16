@@ -5,3 +5,6 @@
 # Mở bản đã được dựng hoặc dựng lại solution
 - Mở file: PhieuKhamBenh\Phiếu Khám Bệnh\Phiếu Khám Bệnh.sln (Cần có Visual Studio phiên bản 2015 trở lên)
 - Phiên bản đã được dựng thì mở folder: PhieuKhamBenh\Phiếu Khám Bệnh\Phiếu Khám Bệnh\bin\Debug
+# Liên hệ
+- Email: dnhanh95@gmail.com
+- Sđt: 0349039671
